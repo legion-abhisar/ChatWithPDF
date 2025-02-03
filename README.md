@@ -6,6 +6,9 @@ Tech: Langchain, Ollama (Mistral:7b), FAISS, Streamlit
 
 LLM Server (Ollama) -> Langchain + FAISS (RAG Framework) -> Streamlit (User Interface)
 
+**Workflow**:
+![RAG_block drawio](https://github.com/user-attachments/assets/7dad1aaa-bd4b-48dc-a551-177bf73c9908)
+
 ---
 **Landing Page**
 ![image](https://github.com/user-attachments/assets/2ac7901d-47a7-43bf-8b44-2472c9a8e506)
